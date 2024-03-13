@@ -1,0 +1,11 @@
+build:
+  version: "v2.0"
+
+contact:
+  message: "Bank system - accounts API"
+  details:
+    name: "Maria Ferrer - QA"
+    email: "mariaferrer@gmail.com.com"
+  phone-numbers:
+    - "(57) 319-597-6200"
+    - "(57) 314-569-4155"
