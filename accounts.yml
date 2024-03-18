@@ -2,7 +2,7 @@ build:
   version: "v1.0"
 
 contact:
-  message: "Sistema Bancario - accounts API / default"
+  message: "Sistema Bancario - accounts API / Rabbitmq"
   details:
     name: "Jessica Placencio - Developer"
     email: "placencioj@gmail.com.com"
