@@ -2,7 +2,7 @@ build:
   version: "v3.0"
 
 contact:
-  message: "Sistema Bancario - accounts API /Entorno Produccion"
+  message: "Sistema Bancario - accounts API /Entorno Produccion / Rabbitmq"
   details:
     name: "Pablo Perez - PROD"
     email: "pablo.perez@gmail.com"
