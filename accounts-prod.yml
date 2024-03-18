@@ -2,7 +2,7 @@ build:
   version: "v3.0"
 
 contact:
-  message: "Sistema Bancario - accounts API /Entorno Produccion"
+  message: "Sistema Bancario (Segunda Prueba) - accounts API /Entorno Produccion"
   details:
     name: "Mario Perez - PROD"
     email: "mario.perez@gmail.com"
