@@ -2,7 +2,7 @@ build:
   version: "v2.0"
 
 contact:
-  message: "Bank system - accounts API"
+  message: "Bank system - accounts API / Rabbitmq"
   details:
     name: "Maria Ferrer - QA"
     email: "mariaferrer@gmail.com.com"
