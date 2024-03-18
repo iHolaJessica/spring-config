@@ -2,7 +2,7 @@ build:
   version: "v3.0"
 
 contact:
-  message: "Bank system - accounts API"
+  message: "Bank system - accounts API / Rabbitmq"
   details:
     name: "Mario Perez - PROD"
     email: "mario.perez@gmail.com"
