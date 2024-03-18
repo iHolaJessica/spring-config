@@ -4,8 +4,8 @@ build:
 contact:
   message: "Sistema Bancario - accounts API /Entorno Produccion"
   details:
-    name: "Maria Perez - PROD"
-    email: "maria.perez@gmail.com"
+    name: "Jessica Perez - PROD"
+    email: "Jessica.perez@gmail.com"
   phone-numbers:
     - "(57) 319-597-6200"
     - "(57) 314-569-4155"
