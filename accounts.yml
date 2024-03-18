@@ -2,7 +2,7 @@ build:
   version: "v1.0"
 
 contact:
-  message: "Bank system - accounts API"
+  message: "Sistema Bancario - accounts API / default"
   details:
     name: "Jessica Placencio - Developer"
     email: "placencioj@gmail.com.com"
